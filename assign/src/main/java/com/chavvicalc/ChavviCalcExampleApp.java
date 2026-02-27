@@ -2,11 +2,7 @@ package com.chavvicalc;
 
 import java.util.Scanner;
 
-/*
- * Chavvi Calc - simple console calculator
- * Allows user to store two values (A and B)
- * and perform basic arithmetic operations.
- */
+
 public class ChavviCalcExampleApp {
 
   public static void main(String[] args) {
