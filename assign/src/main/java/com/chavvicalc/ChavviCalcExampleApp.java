@@ -1,4 +1,4 @@
-package com.chavviCalcExample;
+package com.chavvicalc;
 
 import java.util.Scanner;
 
